@@ -1,6 +1,14 @@
 # Mindustry-Skyblock-Schematics
 
 I've tried to make the most dense Factory schematics in the game. These schematics are only applicable to Omega's SkyBlock server since you need core blocks to make these work.
+Every one of my schematics have a processor in them to stop the factories before the resources deplete. Of course overproducing is not a good thing, so they automagically stop at itemCapacity.01.
+
+## Shard Klin
+Usually one per game is enough.
+
+`bXNjaAF4nFVUbWiTVxQ+7/dXkg4/BtIO7fxREYM6BGGduFXXdevaNdQ/zs80ednSpnndmzoXN7C4uTnHHK3TbUwQQdgQ/0jrdK1Vof6qdYNSHaWoCP5Q3I+xSgWLze5zTzpjQvLkOffce89z3ueEKqhCIz2X7PTJbf0wGaaXNGYzOfLSfj4VZnZ1ZYIcEZnZZJufzVNkS2tnMuxasSEI/W0mWW3Jri4/LJDekcnmqKItzKQ/8OOpIPexXwhCsnfnskEy7YdU0ZlJhUF8Vxik/HxeLLkpcUQ8jxvF+QWSL0XBF+GbNA7ppIEapKgCLGtuRUXU5lSXwSOJEWYx0lT8Kt+hiF8KsixmLk5VKFaeg2sUTYB4AwzsUMmUy2KjZDanOAwRFK5SFAAuDhU9tViAKANRg6NSgFq6SsM5iLoyt1gsPpVRD1G9vHT0QWHQuSuyEJ2l6+JqFTueE2KwEANCwKR0A4UgaOIOQ9RTLM4OiM+EiqioRxfgxMTW2CfHh3qbmodXvXCgJl7X3ry65vWPivfnfW18etX4Mj1uTjSna/dv/y6/cP+tNeu7v7hYt32ocGf0tc1HaPR2vGPLov5TXr/1yoErg0vGvqn+qX7pwdstf99/o/fc55XLZ1oe9BxvH2ncU3Vw7OzA5QXr7rUcfdITP7Ti2tjp+hsNmx7d/Palgb7KnktrTtdXf1bVcSJ2avDKtplgqurJV7+vfffw9YnFfY8n/8icmdKnrx1r+Pfo4eng1capd2pb3043/dnrZfvP/Lpz6d6XL+47eSwxvvzQ+28lfl7WXvnmrfrEYLBgZoPRbWzdU2P2Tc9/cXhj93Tq+9qVkwm3oe7hP4VVJ0YWbm26e+6HI4nKH8//kshVZ97bMZRfPEPoocvNi5BkUXTUZKOYaKzoJ6wF5uApmLAGTEPPzEDy0WkAFdQibW5RlYs60CIDT+aC+ExK6szRv2SSy2b05owzK6MRNnyUL42Vu8qWkyVAusGGG2A/g8GBdW12k81+tnGMJlYwCQIMOMth3zjsm99KvnF4EB2IBougOFGhhbtL/sXRKiZODqULlWAGM4vkNNrMXNzvYgzApLddoeb/0xSMOurwyqcMFGUVZ0u99J6fK48FRdB2RYDGDIMhwGSQGyLoD9YcznQ5U8qKlstSpAUUgBQSZSFRCAHIpx8tLx3/S1T6e2LQYYIYV/4sx8VyTOoUIPb8BwDA+Zw=`
+
+![image](https://github.com/bakawoot/Mindustry-Skyblock-Schematics/blob/73c6c94e0d1bfbe3994faf56b733ba7802c1f93b/Pictures/Shard%20Klin.png)
 
 ## Nucleus Multi-Press
 Usually one per game is enough.
@@ -23,9 +31,4 @@ Usually one/two per game is enough.
 
 ![image](https://github.com/bakawoot/Mindustry-Skyblock-Schematics/blob/0c83138611dc57837c4d72995b51e5f53425fb54/Pictures/Nucleus%20Surge%20Smelter.png)
 
-## Shard Klin
-Usually one per game is enough.
 
-`bXNjaAF4nFVTW67TQAz1vDLJZJJugQ3clfDJJ+IjbSOIyE1QWpC6MYTYCEKshQYfO+XmVkpPbM/YPscOHejgyE/dc0/p3aduOb95Ow4T1ef+clqGL9dhnoioGLtjP17Ivv8QKB6767VfbuQ/D+NEh+MynD/2T6d5+tbf5oXKr9M4d+d+oXSal/7pgrSc5EbyMwZ/hH9y6vLkYAYyliHGR8TCW+rRpFCTYFarJWfxtr9h+M3gVFQrIauhdn8GZYxjsOQAQfxUKETELQojVilk9GipQf+wOSkLF5UAtwFvUK8QsFsphzzwJjm7rutf8dbw+n3r0MEoeFUlgohX6p5LW9x4RSQokQAqsIR6gBvOAvLwwOK63n/y89vCW+J2YF6EG0nvZ/AKoMfTRjbHwPnQRFSrwr0CJyERvVAnadSRCOcQdI+glaAHRgro4wc/f8SsHuYvOZRU+voh0128WcfbaNF2r2Epe8Qg3MHKQOyAkZboFs6kR4ReiTSOI5g7g6hUqUqVqvR9U6lSlSqoBEtIc4cRtbdpIbXFfskKJrCEFdSKJLtXqpVQP2HosGSSidn8z2aw2KhR73cKJtpa75uW9estqpVQhuwGG6oWtoGhAIOsc8rgg1iFWlmnnnEFK037RrACBiBEGiXSgAhAhGj2reMrpO1jVPDI2mrnL2cSwq3wZOA7/wC2wG5q`
-
-![image](https://github.com/bakawoot/Mindustry-Skyblock-Schematics/blob/73c6c94e0d1bfbe3994faf56b733ba7802c1f93b/Pictures/Shard%20Klin.png)
